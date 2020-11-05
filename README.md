@@ -1,6 +1,6 @@
 # RZNuxt
 
-> website Rumah Zakat
+> website Rumah Zakat. Training material Nuxt JS
 
 ## Build Setup
 
